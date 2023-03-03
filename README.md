@@ -1,2 +1,2 @@
-# projects
-Two different types of quick projects I made as school assignments
+# School Projects
+Two different types of quick python projects I made as school assignments
